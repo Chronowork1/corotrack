@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/corotrack/static/css/main.285dcb4a.chunk.css",
+    "main.js": "/corotrack/static/js/main.0319c8e0.chunk.js",
+    "main.js.map": "/corotrack/static/js/main.0319c8e0.chunk.js.map",
+    "runtime-main.js": "/corotrack/static/js/runtime-main.2d89708b.js",
+    "runtime-main.js.map": "/corotrack/static/js/runtime-main.2d89708b.js.map",
+    "static/js/2.f251060f.chunk.js": "/corotrack/static/js/2.f251060f.chunk.js",
+    "static/js/2.f251060f.chunk.js.map": "/corotrack/static/js/2.f251060f.chunk.js.map",
+    "index.html": "/corotrack/index.html",
+    "precache-manifest.a0d96fe0ce7e5b6cb0f83227498452aa.js": "/corotrack/precache-manifest.a0d96fe0ce7e5b6cb0f83227498452aa.js",
+    "service-worker.js": "/corotrack/service-worker.js",
+    "static/css/main.285dcb4a.chunk.css.map": "/corotrack/static/css/main.285dcb4a.chunk.css.map",
+    "static/js/2.f251060f.chunk.js.LICENSE.txt": "/corotrack/static/js/2.f251060f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d89708b.js",
+    "static/js/2.f251060f.chunk.js",
+    "static/css/main.285dcb4a.chunk.css",
+    "static/js/main.0319c8e0.chunk.js"
+  ]
+}
